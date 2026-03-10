@@ -36,7 +36,7 @@ main {
 }
 
 nav a {
-	color: rgb(255, 0, 0);
+	color: rgb(34, 255, 14);
 	font-family: Graduate, Georgia, "Times New Roman", Times, serif;
 	font-weight: bold;
 	text-decoration: none;
@@ -50,7 +50,7 @@ nav a {
 
 h2 {
 	font-family: Graduate, Georgia, "Times New Roman", Times, serif;
-	color: rgb(255, 0, 0);
+	color: rgb(34, 255, 14);
 	text-shadow: black 1px 1px 1px;
 	font-weight: normal;
 	margin: 0;
@@ -61,7 +61,7 @@ h2 {
 footer {
 	font-family: Graduate, Georgia, "Times New Roman", Times, serif;
 	background-color: rgb(45, 9, 50);
-	color: rgb(255, 0, 0);
+	color: rgb(34, 255, 14);
 	padding: .5em;
 	text-align: center;
 }
